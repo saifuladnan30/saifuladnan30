@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saiful Adnan
-- 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Django Python
-- 💞️ I’m looking to collaborate on Python Developer
+- 👀 I’m interested in React Development
+- 🌱 I’m currently learning React JavaScript
+- 💞️ I’m looking to collaborate on React Developer
 - 📫 How to reach me ...
 
 <!---
